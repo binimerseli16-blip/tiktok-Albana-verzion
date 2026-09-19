@@ -1,0 +1,6 @@
+{
+  "name": "TikTok",
+  "description": "TikTok short-form video application with vertical video feed, likes, comments, audio sounds, discover, and profile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
